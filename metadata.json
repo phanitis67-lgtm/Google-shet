@@ -1,0 +1,6 @@
+{
+  "name": "ScholarSheet — ระบบข้อมูลนักเรียนและแดชบอร์ดสรุปผล",
+  "description": "ระบบจัดการข้อมูลนักเรียนเชื่อมต่อ Google Sheets พร้อมแดชบอร์ดสรุปผลและรายงานเชิงวิเคราะห์แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
